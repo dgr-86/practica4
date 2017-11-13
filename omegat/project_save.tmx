@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_2_10096:10098" segtype="paragraph" srclang="ES-ES"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Consumo anual de energía (kWh/annum) - NUEVA (2010/30/</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="usuario" changedate="20171112T230734Z" creationid="usuario" creationdate="20171112T230734Z">
+        <seg>Energy eﬃciency class (2010/30/EC) : A+++ Energy consumption annual (kWh/annum) - NEW (2010/30/EC) :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Datos técnicos</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="usuario" changedate="20171112T225335Z" creationid="usuario" creationdate="20171112T225335Z">
+        <seg>Technical Data</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
